@@ -1,6 +1,13 @@
 # 🔍 Crypto Wallet Hunter
+Need NET 8.0 - https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+
+![image](https://github.com/user-attachments/assets/f6fbaa29-54f2-4b6e-80ee-136211337753)
+
 
 A program for finding cryptocurrency wallets with balances. Supports BTC, TRX, ETH and BNB.
+
+![image](https://github.com/user-attachments/assets/aa226ef6-3360-43fd-8eac-1e2306509210)
+
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/+uOa0ElL74KhiMjQ6)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-Scan%20Results-green)](https://www.virustotal.com/gui/file/97b845d1dda7ef87738d1906808220df9df8a7322c61e679f37223a44a3b1c5d)
